@@ -24,4 +24,4 @@ sostutuendo ai puntini il percorso del file in input
 
 oppure
 
-$ ./bin/pri /home/ceccarelli/labso/R18.txt
+$ ./bin/pri /home/%user%/labso/R18.txt

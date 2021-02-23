@@ -15,7 +15,6 @@
 int msleep(long msec) { //implementazione alta definizione di sleep()
     struct timespec ts;
     int res;
-//testaaa
     if (msec < 0) {
         errno = EINVAL;
         return -1;

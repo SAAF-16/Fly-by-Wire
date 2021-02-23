@@ -19,8 +19,8 @@ che utilizza l'argomento di default che è possibile definire allinterno del mak
 
 oppure
 
-$ make run ARGS= "..."
-sostutuendo ai puntini il percorso del file in input 
+$ make run ARGS= " ... "
+sostituendo ai puntini il percorso del file in input 
 
 oppure
 

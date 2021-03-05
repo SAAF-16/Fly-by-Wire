@@ -1,5 +1,5 @@
 # Fly By Wire
-Progetto realizzato da Akinola Akinjolagbe Samuel Folabi
+Progetto realizzato da Akinola Akinjolagbe Samuel Folabi, (Parte dell'esame di Sistemi Operativi dell'Universita degli studi di Firenze)
 
 L'obiettivo del progetto è emulare un’architettura, anche se enormemente minimale e difforme, di un sistema Fly-By-Wire. Al fine di contestualizzare il progetto e alcuni termini, si precisa che si è utilizzato come riferimento l’architettura del Boeing 777
 
